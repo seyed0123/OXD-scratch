@@ -10,10 +10,10 @@ New algorithms will be added over time.
 
 ## Implemented (or in progress)
 - [x] Linear Regression  
-- [ ] Logistic Regression  
-- [ ] K-Nearest Neighbors (KNN)  
+- [x] Logistic Regression  
+- [x] K-Nearest Neighbors (KNN)  
 - [ ] Decision Tree  
-- [ ] Naive Bayes  
+- [ ] Linear discriminant analysis (LDA)
 - [ ] Support Vector Machine (SVM)  
 - [ ] K-Means Clustering
 
